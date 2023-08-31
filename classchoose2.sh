@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Anthony Kulikowski
+#Author: Anthony 
 #Date: 08/29/2023
 #This script will present the user with several options pertaining \
 #to character creation.
